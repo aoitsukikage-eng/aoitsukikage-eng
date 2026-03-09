@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on NTPU ESG Center.
 - 🌱 I’m currently learning Finance at NTPU.
 - 🤔 I’m looking for 2026 summer internship.
-- 😄 Pronouns: <img src="icons/hammer.svg" width="50">Warhammer 40K<img src="icons/warhammer.svg" width="50">
+- <img src="icons/warhammer.svg" width="50"> Pronouns: <img src="icons/hammer.svg" width="50">Warhammer 40K
 - ⚡ Fun fact: Motor & AOV & Badminton
 
 ### 🚀 Finance Student @ NTPU | AI-Augmented Developer | Efficiency Enthusiast
