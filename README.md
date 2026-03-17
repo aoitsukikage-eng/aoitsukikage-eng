@@ -11,7 +11,7 @@
 I am a Finance major at **National Taipei University** with a unique blend of financial rigor and technical agility.
 I specialize in **refactoring complexity** — whether it's an over-engineered Python pipeline or a multi-asset investment portfolio.
 
-<table>
+<table border="0" cellpadding="8">
   <tr>
     <td valign="top">
 
@@ -20,6 +20,7 @@ I specialize in **refactoring complexity** — whether it's an over-engineered P
 - 🤔 Looking for **2026 Summer Internship**
 
   </td>
+  <td width="80"></td>
   <td valign="top">
 
 - ⚡ Motor · AOV · Badminton
@@ -71,25 +72,27 @@ I specialize in **refactoring complexity** — whether it's an over-engineered P
 
 ### 📫 Connect with Me
 
-<table width="100%">
+<p align="center">
+<table width="100%" align="center" border="0">
   <tr>
     <td align="center" width="33%">
       <a href="https://www.linkedin.com/in/yuhungshih">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="180"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="220"/>
       </a>
     </td>
     <td align="center" width="34%">
       <a href="https://www.notion.so/Portfolio-2e2fe14ae570800a83a9ecc39541ae4e">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" width="180"/>
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" width="220"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="mailto:aoitsukikage@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="180"/>
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="220"/>
       </a>
     </td>
   </tr>
 </table>
+</p>
 
 <br/>
 
@@ -99,4 +102,3 @@ I specialize in **refactoring complexity** — whether it's an over-engineered P
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:1a1b27&height=80&section=footer&reversal=true" width="100%"/>
