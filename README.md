@@ -1,34 +1,78 @@
-<img width="3264" height="1312" alt="Gemini_Generated_Image_b11q76b11q76b11q" src="https://github.com/user-attachments/assets/5c738d12-8bf3-459a-814c-f610fae24b21" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=YuHung%20Shih&fontSize=50&fontColor=cdd6f4&animation=fadeIn&fontAlignY=38&desc=%E6%96%BD%E5%AE%87%E9%B4%BB&descAlignY=56&descSize=20" width="100%"/>
 
-# Hi there, I'm YuHung Shih (施宇鴻) 👋 
-
-- 🔭 I’m currently working on NTPU ESG Center.
-- 🌱 I’m currently learning Finance at NTPU.
-- 🤔 I’m looking for 2026 summer internship.
-- <img src="icons/warhammer.svg" width="50"> Pronouns: <img src="icons/hammer.svg" width="50">Warhammer 40K
-- ⚡ Fun fact: Motor & AOV & Badminton
-
-### 🚀 Finance Student @ NTPU | AI-Augmented Developer | Efficiency Enthusiast
-
-I am a Finance major at **National Taipei University** with a unique blend of financial rigor and technical agility. 
-I specialize in **refactoring complexity**—whether it's an over-engineered Python pipeline or a multi-asset investment portfolio.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Finance+Student+%40+NTPU;AI-Augmented+Developer;Efficiency+Enthusiast;Looking+for+2026+Summer+Internship" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Technical Stack & Skills
+### 🚀 About Me
 
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-- **Tools:** ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-- **Finance:** Portfolio Optimization (Max Sharpe Ratio), Beta Modeling, ESG Assessment (TCFD/SBTi), Securities Settlement.
+I am a Finance major at **National Taipei University** with a unique blend of financial rigor and technical agility.
+I specialize in **refactoring complexity** — whether it's an over-engineered Python pipeline or a multi-asset investment portfolio.
 
----
-
-### 📫 Connect with me
-
-- **LinkedIn:** [YuHung Shih](www.linkedin.com/in/yuhungshih)
-- **Portfolio:** [Full Project List on Notion](https://www.notion.so/Portfolio-2e2fe14ae570800a83a9ecc39541ae4e?source=copy_link)
-- **Email:** `aoitsukikage@gmail.com`
+- 🔭 Currently working at **NTPU ESG Center**
+- 🌱 Studying **Finance** @ NTPU
+- 🤔 Looking for **2026 Summer Internship**
+- ⚡ Motor · AOV · Badminton
+- <img src="icons/warhammer.svg" width="18"> Pronouns: <img src="icons/hammer.svg" width="18"> Warhammer 40K
 
 ---
 
-> "Efficiency is doing things right; effectiveness is doing the right things." - My philosophy in both Finance and Code.
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**
+
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Finance**
+
+![ESG](https://img.shields.io/badge/ESG_Assessment-2E8B57?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Portfolio_Optimization-1E3A5F?style=for-the-badge)
+![Securities](https://img.shields.io/badge/Securities_Settlement-C0392B?style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aoitsukikage-eng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoitsukikage-eng&theme=tokyonight&hide_border=true&layout=compact"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aoitsukikage-eng&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aoitsukikage-eng&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuhungshih">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.notion.so/Portfolio-2e2fe14ae570800a83a9ecc39541ae4e">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+  <a href="mailto:aoitsukikage@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+> "Efficiency is doing things right; effectiveness is doing the right things."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" width="100%"/>
