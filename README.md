@@ -59,20 +59,32 @@ I specialize in **refactoring complexity** — whether it's an over-engineered P
 
 ### 📫 Connect with Me
 
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/in/yuhungshih">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="180"/>
+      </a>
+    </td>
+    <td align="center" width="34%">
+      <a href="https://www.notion.so/Portfolio-2e2fe14ae570800a83a9ecc39541ae4e">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" width="180"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="mailto:aoitsukikage@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="180"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/yuhungshih">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.notion.so/Portfolio-2e2fe14ae570800a83a9ecc39541ae4e">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-  <a href="mailto:aoitsukikage@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="quote.svg" width="100%" alt="quote"/>
 </p>
 
 <br/>
 
-> "Efficiency is doing things right; effectiveness is doing the right things."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:1a1b27&height=80&section=footer&reversal=true" width="100%"/>
