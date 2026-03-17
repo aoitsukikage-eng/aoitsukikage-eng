@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 56" width="860" height="56">
+  <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#7dcfff"/>
+      <stop offset="40%"  stop-color="#70a5fd"/>
+      <stop offset="75%"  stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#ff79c6"/>
+    </linearGradient>
+  </defs>
+  <text
+    x="430" y="34"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="19"
+    font-style="italic"
+    fill="url(#neon)"
+  >&#8220;Efficiency is doing things right; effectiveness is doing the right things.&#8221;</text>
+</svg>

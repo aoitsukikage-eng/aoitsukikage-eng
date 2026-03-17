@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=YuHung%20Shih&fontSize=50&fontColor=cdd6f4&animation=fadeIn&fontAlignY=38&desc=%E6%96%BD%E5%AE%87%E9%B4%BB&descAlignY=56&descSize=20" width="100%"/>
+<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/5c738d12-8bf3-459a-814c-f610fae24b21" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Finance+Student+%40+NTPU;AI-Augmented+Developer;Efficiency+Enthusiast;Looking+for+2026+Summer+Internship" alt="Typing SVG" />
@@ -11,11 +11,23 @@
 I am a Finance major at **National Taipei University** with a unique blend of financial rigor and technical agility.
 I specialize in **refactoring complexity** — whether it's an over-engineered Python pipeline or a multi-asset investment portfolio.
 
+<table>
+  <tr>
+    <td valign="top">
+
 - 🔭 Currently working at **NTPU ESG Center**
 - 🌱 Studying **Finance** @ NTPU
 - 🤔 Looking for **2026 Summer Internship**
+
+  </td>
+  <td valign="top">
+
 - ⚡ Motor · AOV · Badminton
 - <img src="icons/warhammer.svg" width="18"> Pronouns: <img src="icons/hammer.svg" width="18"> Warhammer 40K
+
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -59,20 +71,32 @@ I specialize in **refactoring complexity** — whether it's an over-engineered P
 
 ### 📫 Connect with Me
 
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/in/yuhungshih">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="180"/>
+      </a>
+    </td>
+    <td align="center" width="34%">
+      <a href="https://www.notion.so/Portfolio-2e2fe14ae570800a83a9ecc39541ae4e">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" width="180"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="mailto:aoitsukikage@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="180"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/yuhungshih">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.notion.so/Portfolio-2e2fe14ae570800a83a9ecc39541ae4e">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-  <a href="mailto:aoitsukikage@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="quote.svg" width="100%" alt="quote"/>
 </p>
 
 <br/>
 
-> "Efficiency is doing things right; effectiveness is doing the right things."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:1a1b27&height=80&section=footer&reversal=true" width="100%"/>
