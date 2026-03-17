@@ -72,6 +72,8 @@ I specialize in **refactoring complexity** — whether it's an over-engineered P
 
 ### 📫 Connect with Me
 
+<br/>
+
 <p align="center">
 <table width="100%" align="center" border="0">
   <tr>
@@ -94,7 +96,7 @@ I specialize in **refactoring complexity** — whether it's an over-engineered P
 </table>
 </p>
 
-<br/>
+<br/><br/>
 
 <p align="center">
   <img src="quote.svg" width="100%" alt="quote"/>
