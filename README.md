@@ -11,24 +11,11 @@
 I am a Finance major at **National Taipei University** with a unique blend of financial rigor and technical agility.
 I specialize in **refactoring complexity** — whether it's an over-engineered Python pipeline or a multi-asset investment portfolio.
 
-<table border="0" cellpadding="8">
-  <tr>
-    <td valign="top">
-
 - 🔭 Currently working at **NTPU ESG Center**
 - 🌱 Studying **Finance** @ NTPU
 - 🤔 Looking for **2026 Summer Internship**
-
-  </td>
-  <td width="80"></td>
-  <td valign="top">
-
 - ⚡ Motor · AOV · Badminton
 - <img src="icons/warhammer.svg" width="18"> Pronouns: <img src="icons/hammer.svg" width="18"> Warhammer 40K
-
-  </td>
-  </tr>
-</table>
 
 ---
 
@@ -72,6 +59,8 @@ I specialize in **refactoring complexity** — whether it's an over-engineered P
 
 ### 📫 Connect with Me
 
+<br/>
+
 <p align="center">
 <table width="100%" align="center" border="0">
   <tr>
@@ -94,7 +83,7 @@ I specialize in **refactoring complexity** — whether it's an over-engineered P
 </table>
 </p>
 
-<br/>
+<br/><br/>
 
 <p align="center">
   <img src="quote.svg" width="100%" alt="quote"/>
