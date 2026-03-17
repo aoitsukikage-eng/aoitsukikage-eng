@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=YuHung%20Shih&fontSize=50&fontColor=cdd6f4&animation=fadeIn&fontAlignY=38&desc=%E6%96%BD%E5%AE%87%E9%B4%BB&descAlignY=56&descSize=20" width="100%"/>
+<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/5c738d12-8bf3-459a-814c-f610fae24b21" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Finance+Student+%40+NTPU;AI-Augmented+Developer;Efficiency+Enthusiast;Looking+for+2026+Summer+Internship" alt="Typing SVG" />
