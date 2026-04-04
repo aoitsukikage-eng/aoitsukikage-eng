@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" alt="Status Panel" src="assets/panel-status.svg" />
+  <img width="100%" alt="Status Panel" src="assets/panel-status-v2.svg" />
 </p>
 
 I am a Finance major at **National Taipei University** with a unique blend of financial rigor and technical agility.  
@@ -28,7 +28,7 @@ I specialize in **refactoring complexity**: whether it is an over-engineered Pyt
 </p>
 
 <p align="center">
-  <img width="100%" alt="Skill Tree Panel" src="assets/panel-skills.svg" />
+  <img width="100%" alt="Skill Tree Panel" src="assets/panel-skills-v2.svg" />
 </p>
 
 **Core Languages**
@@ -53,7 +53,7 @@ I specialize in **refactoring complexity**: whether it is an over-engineered Pyt
 </p>
 
 <p align="center">
-  <img width="100%" alt="Battle Records Panel" src="assets/panel-records.svg" />
+  <img width="100%" alt="Battle Records Panel" src="assets/panel-records-v2.svg" />
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ I specialize in **refactoring complexity**: whether it is an over-engineered Pyt
 </p>
 
 <p align="center">
-  <img width="100%" alt="Portal Links Panel" src="assets/panel-links.svg" />
+  <img width="100%" alt="Portal Links Panel" src="assets/panel-links-v2.svg" />
 </p>
 
 <p align="center">
