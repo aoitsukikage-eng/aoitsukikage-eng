@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" width="1400" height="420" role="img" aria-label="Solo style system banner">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="55%" stop-color="#07132a"/>
+      <stop offset="100%" stop-color="#04060f"/>
+    </linearGradient>
+    <linearGradient id="neonStroke" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#17407a"/>
+      <stop offset="50%" stop-color="#5be7ff"/>
+      <stop offset="100%" stop-color="#2f89ff"/>
+    </linearGradient>
+    <linearGradient id="scanLine" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#5be7ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#5be7ff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#5be7ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="gridPattern" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#19407a" stroke-width="0.8" stroke-opacity="0.25"/>
+    </pattern>
+  </defs>
+
+  <rect width="1400" height="420" fill="url(#bgGradient)"/>
+  <rect width="1400" height="420" fill="url(#gridPattern)"/>
+
+  <rect x="60" y="42" width="1280" height="336" rx="8" fill="none" stroke="url(#neonStroke)" stroke-width="2.6" filter="url(#softGlow)" opacity="0.9"/>
+  <rect x="86" y="74" width="1228" height="272" rx="6" fill="none" stroke="#5be7ff" stroke-width="1.2" stroke-opacity="0.45"/>
+
+  <path d="M 60 42 H 230 M 1170 42 H 1340 M 60 378 H 250 M 1140 378 H 1340" stroke="#5be7ff" stroke-width="4" stroke-linecap="round" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+
+  <path d="M 120 116 H 1280 M 120 308 H 1280" stroke="#5be7ff" stroke-width="1.2" stroke-opacity="0.35"/>
+
+  <rect x="90" y="-56" width="1220" height="86" fill="url(#scanLine)">
+    <animate attributeName="y" values="-86;376" dur="4.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <g fill="#5be7ff" fill-opacity="0.7" filter="url(#softGlow)">
+    <circle cx="220" cy="120" r="2">
+      <animate attributeName="cy" values="120;310;120" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.8;0.15" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="710" cy="102" r="2.4">
+      <animate attributeName="cy" values="102;300;102" dur="4.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1150" cy="130" r="2">
+      <animate attributeName="cy" values="130;300;130" dur="5.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.75;0.2" dur="5.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" text-anchor="middle">
+    <text x="700" y="145" font-size="20" fill="#8edbff" letter-spacing="4">SYSTEM INTERFACE</text>
+    <text x="700" y="214" font-size="54" fill="#d3eeff" font-weight="700" letter-spacing="3" filter="url(#softGlow)">AOITSUKIKAGE-ENG</text>
+    <text x="700" y="256" font-size="18" fill="#7bc8ff" letter-spacing="3">PLAYER PROFILE INITIALIZED</text>
+  </g>
+
+  <g>
+    <rect x="230" y="288" width="940" height="7" rx="3.5" fill="#0d2f5a"/>
+    <rect x="230" y="288" width="110" height="7" rx="3.5" fill="#5be7ff" filter="url(#softGlow)">
+      <animate attributeName="width" values="110;900;110" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

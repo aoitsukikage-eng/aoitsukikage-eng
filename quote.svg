@@ -1,19 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 56" width="860" height="56">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 86" width="1400" height="86" role="img" aria-label="Quote banner">
   <defs>
-    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#7dcfff"/>
-      <stop offset="40%"  stop-color="#70a5fd"/>
-      <stop offset="75%"  stop-color="#bb9af7"/>
-      <stop offset="100%" stop-color="#ff79c6"/>
+    <linearGradient id="qLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0c1730"/>
+      <stop offset="50%" stop-color="#5be7ff"/>
+      <stop offset="100%" stop-color="#0c1730"/>
     </linearGradient>
+    <linearGradient id="qText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#84d7ff">
+        <animate attributeName="stop-color" values="#84d7ff;#d2f2ff;#84d7ff" dur="3.8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#58b5ff">
+        <animate attributeName="stop-color" values="#58b5ff;#9ddfff;#58b5ff" dur="3.8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="qGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
+
+  <rect x="40" y="42" width="1320" height="2" fill="url(#qLine)"/>
+  <rect x="40" y="42" width="1320" height="2" fill="url(#qLine)" opacity="0.8" filter="url(#qGlow)">
+    <animate attributeName="opacity" values="0.25;0.95;0.25" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
   <text
-    x="430" y="34"
+    x="700"
+    y="48"
     text-anchor="middle"
     dominant-baseline="middle"
-    font-family="Georgia, 'Times New Roman', serif"
-    font-size="23"
-    font-style="italic"
-    fill="url(#neon)"
-  >&#8220;Efficiency is doing things right; effectiveness is doing the right things.&#8221;</text>
+    font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"
+    font-size="24"
+    letter-spacing="0.8"
+    fill="url(#qText)"
+    filter="url(#qGlow)"
+  >
+    "Efficiency is doing things right; effectiveness is doing the right things."
+  </text>
 </svg>

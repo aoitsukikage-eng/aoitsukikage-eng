@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 56" width="1400" height="56" role="img" aria-label="Solo style divider">
+  <defs>
+    <linearGradient id="lineGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a1730"/>
+      <stop offset="50%" stop-color="#5be7ff"/>
+      <stop offset="100%" stop-color="#0a1730"/>
+    </linearGradient>
+    <filter id="lineBlur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.2"/>
+    </filter>
+  </defs>
+
+  <rect x="40" y="27" width="1320" height="2" fill="url(#lineGlow)"/>
+  <rect x="40" y="27" width="1320" height="2" fill="url(#lineGlow)" filter="url(#lineBlur)" opacity="0.8">
+    <animate attributeName="opacity" values="0.25;0.95;0.25" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <g fill="#5be7ff">
+    <circle cx="180" cy="28" r="3">
+      <animate attributeName="cx" values="180;1220;180" dur="4.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="4.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1220" cy="28" r="3">
+      <animate attributeName="cx" values="1220;180;1220" dur="4.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="4.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
