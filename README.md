@@ -14,14 +14,12 @@
   <img width="100%" alt="Status Panel" src="assets/panel-status-v2.svg" />
 </p>
 
+<p align="center">
+  <img width="100%" alt="Status Core HUD" src="assets/status-core-v1.svg" />
+</p>
+
 I am a Finance major at **National Taipei University** with a unique blend of financial rigor and technical agility.  
 I specialize in **refactoring complexity**: whether it is an over-engineered Python pipeline or a multi-asset investment portfolio.
-
-- `CURRENT_ASSIGNMENT`: NTPU ESG Center
-- `ACADEMIC_TRACK`: Finance @ NTPU
-- `TARGET_QUEST`: 2026 Summer Internship
-- `OFF_DUTY_MODE`: Motor / AOV / Badminton
-- `CALL_SIGN`: <img src="icons/warhammer.svg" width="18"> <img src="icons/hammer.svg" width="18"> Warhammer 40K
 
 <p align="center">
   <img width="100%" alt="Divider" src="assets/solo-divider.svg" />

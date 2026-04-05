@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520" width="1400" height="520" role="img" aria-label="Status core panel">
+  <defs>
+    <linearGradient id="frameStroke" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#173a66"/>
+      <stop offset="50%" stop-color="#5be7ff"/>
+      <stop offset="100%" stop-color="#173a66"/>
+    </linearGradient>
+    <linearGradient id="barFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5be7ff"/>
+      <stop offset="100%" stop-color="#6f9eff"/>
+    </linearGradient>
+    <filter id="softLight" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="48" y="34" width="1304" height="452" rx="10" fill="#071125" stroke="url(#frameStroke)" stroke-width="2"/>
+  <rect x="74" y="62" width="1252" height="398" rx="8" fill="none" stroke="#4bcfff" stroke-opacity="0.4" stroke-width="1.2"/>
+
+  <text x="96" y="96" fill="#93dbff" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="16" letter-spacing="2">STATUS CORE</text>
+
+  <g font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+    <text x="96" y="138" fill="#6dbfff" font-size="14" letter-spacing="1.5">LEVEL</text>
+    <text x="96" y="166" fill="#d5f3ff" font-size="24" font-weight="700">JUNIOR · UNDERGRAD YEAR 3</text>
+
+    <text x="96" y="206" fill="#6dbfff" font-size="14" letter-spacing="1.5">GUILD</text>
+    <text x="96" y="232" fill="#d5f3ff" font-size="21" font-weight="700">NTPU ESG CENTER</text>
+
+    <text x="548" y="206" fill="#6dbfff" font-size="14" letter-spacing="1.5">CLASS</text>
+    <text x="548" y="232" fill="#d5f3ff" font-size="21" font-weight="700">NTPU FINANCE</text>
+
+    <text x="96" y="272" fill="#6dbfff" font-size="14" letter-spacing="1.5">SUB-CLASS</text>
+    <text x="96" y="298" fill="#d5f3ff" font-size="21" font-weight="700">RESEARCH ASSISTANT</text>
+
+    <text x="548" y="272" fill="#6dbfff" font-size="14" letter-spacing="1.5">TITLE</text>
+    <text x="548" y="298" fill="#d5f3ff" font-size="21" font-weight="700">WARHAMMER 40K</text>
+  </g>
+
+  <g font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+    <text x="96" y="344" fill="#72d7ff" font-size="13" letter-spacing="1.4">HP · STAMINA</text>
+    <rect x="220" y="332" width="520" height="10" rx="5" fill="#12335e"/>
+    <rect x="220" y="332" width="426" height="10" rx="5" fill="url(#barFill)">
+      <animate attributeName="opacity" values="0.76;1;0.76" dur="3.8s" repeatCount="indefinite"/>
+    </rect>
+    <text x="758" y="342" fill="#aee8ff" font-size="14">82</text>
+
+    <text x="96" y="386" fill="#72d7ff" font-size="13" letter-spacing="1.4">DEF · RISK CONTROL</text>
+    <rect x="220" y="374" width="520" height="10" rx="5" fill="#12335e"/>
+    <rect x="220" y="374" width="395" height="10" rx="5" fill="url(#barFill)">
+      <animate attributeName="opacity" values="0.72;0.95;0.72" dur="4.3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="758" y="384" fill="#aee8ff" font-size="14">76</text>
+
+    <text x="96" y="428" fill="#72d7ff" font-size="13" letter-spacing="1.4">MP · BUILD FOCUS</text>
+    <rect x="220" y="416" width="520" height="10" rx="5" fill="#12335e"/>
+    <rect x="220" y="416" width="458" height="10" rx="5" fill="url(#barFill)">
+      <animate attributeName="opacity" values="0.8;1;0.8" dur="3.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="220" y="415" width="48" height="12" rx="6" fill="#d7fbff" opacity="0.7" filter="url(#softLight)">
+      <animate attributeName="x" values="220;632;220" dur="6.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.85;0.2" dur="6.2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="758" y="426" fill="#aee8ff" font-size="14">88</text>
+  </g>
+
+  <line x1="818" y1="118" x2="818" y2="448" stroke="#53ceff" stroke-opacity="0.35" stroke-width="1.2"/>
+
+  <g font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+    <text x="850" y="138" fill="#7fd8ff" font-size="14" letter-spacing="1.4">FOCUS BUFFS</text>
+
+    <rect x="850" y="154" width="472" height="34" rx="6" fill="#0d1f3d" stroke="#4cc8ff" stroke-opacity="0.45"/>
+    <text x="866" y="176" fill="#d0f0ff" font-size="14">FLOW STATE  +20% OUTPUT</text>
+
+    <rect x="850" y="198" width="472" height="34" rx="6" fill="#0d1f3d" stroke="#4cc8ff" stroke-opacity="0.45"/>
+    <text x="866" y="220" fill="#d0f0ff" font-size="14">DEEP WORK  -15% ERROR RATE</text>
+
+    <rect x="850" y="242" width="472" height="34" rx="6" fill="#0d1f3d" stroke="#4cc8ff" stroke-opacity="0.45"/>
+    <text x="866" y="264" fill="#d0f0ff" font-size="14">CLARITY  +10% DECISION SPEED</text>
+  </g>
+
+  <g font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+    <text x="850" y="314" fill="#7fd8ff" font-size="14" letter-spacing="1.4">LOADOUT</text>
+
+    <rect x="850" y="330" width="150" height="108" rx="8" fill="#0a1a34" stroke="#4fcfff" stroke-opacity="0.55"/>
+    <rect x="1011" y="330" width="150" height="108" rx="8" fill="#0a1a34" stroke="#4fcfff" stroke-opacity="0.55"/>
+    <rect x="1172" y="330" width="150" height="108" rx="8" fill="#0a1a34" stroke="#4fcfff" stroke-opacity="0.55"/>
+
+    <g stroke="#9fe7ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" filter="url(#softLight)">
+      <path d="M 874 387 L 894 373 L 926 373 L 951 382 L 973 385"/>
+      <path d="M 906 373 L 912 360 L 930 360 L 946 373"/>
+      <circle cx="900" cy="398" r="10"/>
+      <circle cx="962" cy="398" r="10"/>
+    </g>
+    <text x="925" y="428" text-anchor="middle" fill="#d8f6ff" font-size="12">MT-09 TRACER</text>
+
+    <g stroke="#9fe7ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" filter="url(#softLight)">
+      <ellipse cx="1088" cy="380" rx="16" ry="22"/>
+      <line x1="1102" y1="396" x2="1122" y2="414"/>
+      <path d="M 1070 368 L 1046 348 L 1058 372 L 1040 390 L 1066 384"/>
+    </g>
+    <text x="1086" y="428" text-anchor="middle" fill="#d8f6ff" font-size="12">BLADE RACKET</text>
+
+    <g stroke="#9fe7ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" filter="url(#softLight)">
+      <rect x="1200" y="372" width="72" height="18" rx="4"/>
+      <line x1="1272" y1="381" x2="1290" y2="381"/>
+      <line x1="1214" y1="372" x2="1214" y2="358"/>
+      <line x1="1236" y1="390" x2="1236" y2="408"/>
+    </g>
+    <text x="1248" y="428" text-anchor="middle" fill="#d8f6ff" font-size="12">RANGED CORE</text>
+  </g>
+</svg>
