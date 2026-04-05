@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 460" width="1400" height="460" role="img" aria-label="Status core panel v4">
+  <defs>
+    <linearGradient id="frameStrokeV4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#173a66"/>
+      <stop offset="50%" stop-color="#5be7ff"/>
+      <stop offset="100%" stop-color="#173a66"/>
+    </linearGradient>
+    <linearGradient id="barFillV4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58e2ff"/>
+      <stop offset="100%" stop-color="#78a8ff"/>
+    </linearGradient>
+    <filter id="dotGlowV4" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="1.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="48" y="30" width="1304" height="400" rx="10" fill="#071125" stroke="url(#frameStrokeV4)" stroke-width="2"/>
+  <rect x="74" y="56" width="1252" height="344" rx="8" fill="none" stroke="#4bcfff" stroke-opacity="0.4" stroke-width="1.2"/>
+
+  <text x="96" y="92" fill="#9adfff" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="17" letter-spacing="2">STATUS CORE</text>
+  <line x1="90" y1="110" x2="1310" y2="110" stroke="#57d4ff" stroke-opacity="0.32" stroke-width="1"/>
+
+  <g font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+    <text x="96" y="142" fill="#6fc3ff" font-size="13" letter-spacing="1.4">LEVEL</text>
+    <text x="96" y="166" fill="#d7f4ff" font-size="26" font-weight="700">JUNIOR · UNDERGRAD YEAR 3</text>
+
+    <text x="760" y="142" fill="#6fc3ff" font-size="13" letter-spacing="1.4">TITLE</text>
+    <text x="760" y="166" fill="#d7f4ff" font-size="26" font-weight="700">WARHAMMER 40K</text>
+
+    <text x="96" y="198" fill="#6fc3ff" font-size="13" letter-spacing="1.4">GUILD</text>
+    <text x="96" y="222" fill="#d7f4ff" font-size="26" font-weight="700">NTPU ESG CENTER</text>
+
+    <text x="760" y="198" fill="#6fc3ff" font-size="13" letter-spacing="1.4">CLASS</text>
+    <text x="760" y="222" fill="#d7f4ff" font-size="26" font-weight="700">NTPU FINANCE</text>
+
+    <text x="96" y="254" fill="#6fc3ff" font-size="13" letter-spacing="1.4">SUB-CLASS</text>
+    <text x="96" y="278" fill="#d7f4ff" font-size="26" font-weight="700">RESEARCH ASSISTANT</text>
+  </g>
+
+  <g font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+    <text x="96" y="314" fill="#8be2ff" font-size="16" font-weight="600" letter-spacing="1.5">HP · STAMINA</text>
+    <rect x="330" y="304" width="860" height="12" rx="6" fill="#12335e"/>
+    <rect x="330" y="304" width="705" height="12" rx="6" fill="url(#barFillV4)">
+      <animate attributeName="opacity" values="0.74;1;0.74" dur="4.2s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="336" cy="310" r="4.2" fill="#dcfdff" filter="url(#dotGlowV4)">
+      <animate attributeName="cx" values="336;1028;336" dur="8.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.24;0.92;0.24" dur="8.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1210" y="314" fill="#b4ecff" font-size="18" font-weight="600">82</text>
+
+    <text x="96" y="348" fill="#8be2ff" font-size="16" font-weight="600" letter-spacing="1.5">DEF · RISK CONTROL</text>
+    <rect x="330" y="338" width="860" height="12" rx="6" fill="#12335e"/>
+    <rect x="330" y="338" width="654" height="12" rx="6" fill="url(#barFillV4)">
+      <animate attributeName="opacity" values="0.72;0.96;0.72" dur="4.7s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="336" cy="344" r="4.2" fill="#dcfdff" filter="url(#dotGlowV4)">
+      <animate attributeName="cx" values="336;976;336" dur="9.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.24;0.9;0.24" dur="9.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1210" y="348" fill="#b4ecff" font-size="18" font-weight="600">76</text>
+
+    <text x="96" y="382" fill="#8be2ff" font-size="16" font-weight="600" letter-spacing="1.5">MP · BUILD FOCUS</text>
+    <rect x="330" y="372" width="860" height="12" rx="6" fill="#12335e"/>
+    <rect x="330" y="372" width="756" height="12" rx="6" fill="url(#barFillV4)">
+      <animate attributeName="opacity" values="0.76;1;0.76" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="336" cy="378" r="4.2" fill="#dcfdff" filter="url(#dotGlowV4)">
+      <animate attributeName="cx" values="336;1080;336" dur="8.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.28;0.95;0.28" dur="8.1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1210" y="382" fill="#b4ecff" font-size="18" font-weight="600">88</text>
+  </g>
+
+  <text x="96" y="414" fill="#80cdef" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="13" letter-spacing="0.6">
+    SYSTEM NOTE: Finance x AI workflow builder focused on deep work, clarity, and risk-aware execution.
+  </text>
+</svg>

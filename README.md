@@ -15,10 +15,8 @@
 </p>
 
 <p align="center">
-  <img width="100%" alt="Status Core HUD" src="assets/status-core-v3.svg" />
+  <img width="100%" alt="Status Core HUD" src="assets/status-core-v4.svg" />
 </p>
-
-Finance major at **National Taipei University**, building practical AI workflows with risk-aware execution and strong focus on complexity refactoring.
 
 <p align="center">
   <img width="100%" alt="Divider" src="assets/solo-divider.svg" />
