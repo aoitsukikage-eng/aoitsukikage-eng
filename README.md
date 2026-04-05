@@ -15,11 +15,10 @@
 </p>
 
 <p align="center">
-  <img width="100%" alt="Status Core HUD" src="assets/status-core-v1.svg" />
+  <img width="100%" alt="Status Core HUD" src="assets/status-core-v3.svg" />
 </p>
 
-I am a Finance major at **National Taipei University** with a unique blend of financial rigor and technical agility.  
-I specialize in **refactoring complexity**: whether it is an over-engineered Python pipeline or a multi-asset investment portfolio.
+Finance major at **National Taipei University**, building practical AI workflows with risk-aware execution and strong focus on complexity refactoring.
 
 <p align="center">
   <img width="100%" alt="Divider" src="assets/solo-divider.svg" />
