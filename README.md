@@ -57,8 +57,8 @@ I specialize in **refactoring complexity**: whether it is an over-engineered Pyt
 </p>
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=aoitsukikage-eng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=00000000"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoitsukikage-eng&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000"/>
+  <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aoitsukikage-eng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=00000000"/>
+  <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aoitsukikage-eng&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000"/>
 </p>
 
 <p align="center">
