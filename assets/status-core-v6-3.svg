@@ -48,75 +48,75 @@
 
   <g font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
     <text x="96" y="436" fill="#a2e7ff" font-size="23" font-weight="700" letter-spacing="1.1">ATK</text>
-    <rect x="360" y="423" width="372" height="10" rx="5" fill="#12335e"/>
-    <rect x="360" y="423" width="312" height="10" rx="5" fill="url(#barFillV6)">
+    <rect x="326" y="423" width="372" height="10" rx="5" fill="#12335e"/>
+    <rect x="326" y="423" width="312" height="10" rx="5" fill="url(#barFillV6)">
       <animate attributeName="opacity" values="0.74;1;0.74" dur="4.4s" repeatCount="indefinite"/>
     </rect>
-    <circle cx="366" cy="428" r="4.2" fill="#dcfdff" filter="url(#dotGlowV6)">
-      <animate attributeName="cx" values="366;666;366" dur="8.6s" repeatCount="indefinite"/>
+    <circle cx="332" cy="428" r="4.2" fill="#dcfdff" filter="url(#dotGlowV6)">
+      <animate attributeName="cx" values="332;632;332" dur="8.6s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.24;0.92;0.24" dur="8.6s" repeatCount="indefinite"/>
     </circle>
-    <text x="748" y="436" fill="#b4ecff" font-size="16" font-weight="600">84</text>
+    <text x="714" y="436" fill="#b4ecff" font-size="16" font-weight="600">84</text>
     <text x="96" y="454" fill="#6ea8c6" font-size="13" letter-spacing="1.1">EXECUTION POWER</text>
 
     <text x="96" y="494" fill="#a2e7ff" font-size="23" font-weight="700" letter-spacing="1.1">HP</text>
-    <rect x="360" y="481" width="372" height="10" rx="5" fill="#12335e"/>
-    <rect x="360" y="481" width="305" height="10" rx="5" fill="url(#barFillV6)">
+    <rect x="326" y="481" width="372" height="10" rx="5" fill="#12335e"/>
+    <rect x="326" y="481" width="305" height="10" rx="5" fill="url(#barFillV6)">
       <animate attributeName="opacity" values="0.72;0.98;0.72" dur="4.1s" repeatCount="indefinite"/>
     </rect>
-    <circle cx="366" cy="486" r="4.2" fill="#dcfdff" filter="url(#dotGlowV6)">
-      <animate attributeName="cx" values="366;659;366" dur="8.3s" repeatCount="indefinite"/>
+    <circle cx="332" cy="486" r="4.2" fill="#dcfdff" filter="url(#dotGlowV6)">
+      <animate attributeName="cx" values="332;625;332" dur="8.3s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.24;0.92;0.24" dur="8.3s" repeatCount="indefinite"/>
     </circle>
-    <text x="748" y="494" fill="#b4ecff" font-size="16" font-weight="600">82</text>
+    <text x="714" y="494" fill="#b4ecff" font-size="16" font-weight="600">82</text>
     <text x="96" y="512" fill="#6ea8c6" font-size="13" letter-spacing="1.1">STAMINA</text>
 
     <text x="96" y="552" fill="#a2e7ff" font-size="23" font-weight="700" letter-spacing="1.1">INT</text>
-    <rect x="360" y="539" width="372" height="10" rx="5" fill="#12335e"/>
-    <rect x="360" y="539" width="320" height="10" rx="5" fill="url(#barFillV6)">
+    <rect x="326" y="539" width="372" height="10" rx="5" fill="#12335e"/>
+    <rect x="326" y="539" width="320" height="10" rx="5" fill="url(#barFillV6)">
       <animate attributeName="opacity" values="0.75;1;0.75" dur="4s" repeatCount="indefinite"/>
     </rect>
-    <circle cx="366" cy="544" r="4.2" fill="#dcfdff" filter="url(#dotGlowV6)">
-      <animate attributeName="cx" values="366;674;366" dur="8.1s" repeatCount="indefinite"/>
+    <circle cx="332" cy="544" r="4.2" fill="#dcfdff" filter="url(#dotGlowV6)">
+      <animate attributeName="cx" values="332;640;332" dur="8.1s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.28;0.95;0.28" dur="8.1s" repeatCount="indefinite"/>
     </circle>
-    <text x="748" y="552" fill="#b4ecff" font-size="16" font-weight="600">86</text>
+    <text x="714" y="552" fill="#b4ecff" font-size="16" font-weight="600">86</text>
     <text x="96" y="570" fill="#6ea8c6" font-size="13" letter-spacing="1.1">COMPLEXITY BREAKDOWN</text>
 
-    <text x="790" y="436" fill="#a2e7ff" font-size="23" font-weight="700" letter-spacing="1.1">CRIT</text>
-    <rect x="900" y="423" width="372" height="10" rx="5" fill="#12335e"/>
-    <rect x="900" y="423" width="272" height="10" rx="5" fill="url(#barFillV6)">
+    <text x="766" y="436" fill="#a2e7ff" font-size="23" font-weight="700" letter-spacing="1.1">CRIT</text>
+    <rect x="876" y="423" width="372" height="10" rx="5" fill="#12335e"/>
+    <rect x="876" y="423" width="272" height="10" rx="5" fill="url(#barFillV6)">
       <animate attributeName="opacity" values="0.74;1;0.74" dur="4.7s" repeatCount="indefinite"/>
     </rect>
-    <circle cx="906" cy="428" r="4.2" fill="#dcfdff" filter="url(#dotGlowV6)">
-      <animate attributeName="cx" values="906;1166;906" dur="9.2s" repeatCount="indefinite"/>
+    <circle cx="882" cy="428" r="4.2" fill="#dcfdff" filter="url(#dotGlowV6)">
+      <animate attributeName="cx" values="882;1142;882" dur="9.2s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.24;0.92;0.24" dur="9.2s" repeatCount="indefinite"/>
     </circle>
-    <text x="1288" y="436" fill="#b4ecff" font-size="16" font-weight="600">73</text>
-    <text x="790" y="454" fill="#6ea8c6" font-size="13" letter-spacing="1.1">MULTI-TASK ORCHESTRATION</text>
+    <text x="1264" y="436" fill="#b4ecff" font-size="16" font-weight="600">73</text>
+    <text x="766" y="454" fill="#6ea8c6" font-size="13" letter-spacing="1.1">MULTI-TASK ORCHESTRATION</text>
 
-    <text x="790" y="494" fill="#a2e7ff" font-size="23" font-weight="700" letter-spacing="1.1">RES</text>
-    <rect x="900" y="481" width="372" height="10" rx="5" fill="#12335e"/>
-    <rect x="900" y="481" width="327" height="10" rx="5" fill="url(#barFillV6)">
+    <text x="766" y="494" fill="#a2e7ff" font-size="23" font-weight="700" letter-spacing="1.1">RES</text>
+    <rect x="876" y="481" width="372" height="10" rx="5" fill="#12335e"/>
+    <rect x="876" y="481" width="327" height="10" rx="5" fill="url(#barFillV6)">
       <animate attributeName="opacity" values="0.72;0.98;0.72" dur="4.5s" repeatCount="indefinite"/>
     </rect>
-    <circle cx="906" cy="486" r="4.2" fill="#dcfdff" filter="url(#dotGlowV6)">
-      <animate attributeName="cx" values="906;1221;906" dur="8.9s" repeatCount="indefinite"/>
+    <circle cx="882" cy="486" r="4.2" fill="#dcfdff" filter="url(#dotGlowV6)">
+      <animate attributeName="cx" values="882;1197;882" dur="8.9s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.24;0.92;0.24" dur="8.9s" repeatCount="indefinite"/>
     </circle>
-    <text x="1288" y="494" fill="#b4ecff" font-size="16" font-weight="600">88</text>
-    <text x="790" y="512" fill="#6ea8c6" font-size="13" letter-spacing="1.1">RESILIENCE</text>
+    <text x="1264" y="494" fill="#b4ecff" font-size="16" font-weight="600">88</text>
+    <text x="766" y="512" fill="#6ea8c6" font-size="13" letter-spacing="1.1">RESILIENCE</text>
 
-    <text x="790" y="552" fill="#a2e7ff" font-size="23" font-weight="700" letter-spacing="1.1">PER</text>
-    <rect x="900" y="539" width="372" height="10" rx="5" fill="#12335e"/>
-    <rect x="900" y="539" width="339" height="10" rx="5" fill="url(#barFillV6)">
+    <text x="766" y="552" fill="#a2e7ff" font-size="23" font-weight="700" letter-spacing="1.1">PER</text>
+    <rect x="876" y="539" width="372" height="10" rx="5" fill="#12335e"/>
+    <rect x="876" y="539" width="339" height="10" rx="5" fill="url(#barFillV6)">
       <animate attributeName="opacity" values="0.75;1;0.75" dur="4.2s" repeatCount="indefinite"/>
     </rect>
-    <circle cx="906" cy="544" r="4.2" fill="#dcfdff" filter="url(#dotGlowV6)">
-      <animate attributeName="cx" values="906;1233;906" dur="8.4s" repeatCount="indefinite"/>
+    <circle cx="882" cy="544" r="4.2" fill="#dcfdff" filter="url(#dotGlowV6)">
+      <animate attributeName="cx" values="882;1209;882" dur="8.4s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.28;0.95;0.28" dur="8.4s" repeatCount="indefinite"/>
     </circle>
-    <text x="1288" y="552" fill="#b4ecff" font-size="16" font-weight="600">91</text>
-    <text x="790" y="570" fill="#6ea8c6" font-size="13" letter-spacing="1.1">RISK CONTROL</text>
+    <text x="1264" y="552" fill="#b4ecff" font-size="16" font-weight="600">91</text>
+    <text x="766" y="570" fill="#6ea8c6" font-size="13" letter-spacing="1.1">RISK CONTROL</text>
   </g>
 </svg>
