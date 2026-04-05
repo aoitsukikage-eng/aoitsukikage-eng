@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" alt="Status Core HUD" src="assets/status-core-v5.svg" />
+  <img width="100%" alt="Status Core HUD" src="assets/status-core-v6.svg" />
 </p>
 
 <p align="center">
