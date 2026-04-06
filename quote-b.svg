@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 120" width="1400" height="120" role="img" aria-label="Quote banner style B">
+  <defs>
+    <linearGradient id="qLineB" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0c1730"/>
+      <stop offset="50%" stop-color="#5be7ff"/>
+      <stop offset="100%" stop-color="#0c1730"/>
+    </linearGradient>
+
+    <linearGradient id="qTextB" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a8e9ff">
+        <animate attributeName="stop-color" values="#a8e9ff;#e7fbff;#a8e9ff" dur="4.8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#63bfff">
+        <animate attributeName="stop-color" values="#63bfff;#bfe9ff;#63bfff" dur="4.8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="qShimmerB" x1="0%" y1="0%" x2="40%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1.2 0;2.2 0" dur="3.4s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="qGlowB" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="40" y="78" width="1320" height="2" fill="url(#qLineB)"/>
+  <rect x="40" y="78" width="1320" height="2" fill="url(#qLineB)" opacity="0.85" filter="url(#qGlowB)">
+    <animate attributeName="opacity" values="0.28;0.94;0.28" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <text
+    x="700"
+    y="58"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="'Segoe Script', 'Brush Script MT', 'Lucida Handwriting', cursive"
+    font-size="34"
+    font-style="italic"
+    letter-spacing="0.2"
+    textLength="1160"
+    lengthAdjust="spacingAndGlyphs"
+    fill="url(#qTextB)"
+    filter="url(#qGlowB)"
+  >
+    "Efficiency is doing things right; effectiveness is doing the right things."
+  </text>
+
+  <text
+    x="700"
+    y="58"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="'Segoe Script', 'Brush Script MT', 'Lucida Handwriting', cursive"
+    font-size="34"
+    font-style="italic"
+    letter-spacing="0.2"
+    textLength="1160"
+    lengthAdjust="spacingAndGlyphs"
+    fill="url(#qShimmerB)"
+    opacity="0.9"
+  >
+    "Efficiency is doing things right; effectiveness is doing the right things."
+  </text>
+</svg>

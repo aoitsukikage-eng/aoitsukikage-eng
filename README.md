@@ -99,5 +99,14 @@
 </p>
 
 <p align="center">
-  <img src="quote.svg" width="100%" alt="Quote"/>
+  <img src="quote-b.svg" width="100%" alt="Quote Style B - Shimmer"/>
+</p>
+<p align="center">
+  <sub>Quote Style B: Enlarged cursive + slow shimmer</sub>
+</p>
+<p align="center">
+  <img src="quote-c.svg" width="100%" alt="Quote Style C - Underline"/>
+</p>
+<p align="center">
+  <sub>Quote Style C: Enlarged cursive + glowing signature underline</sub>
 </p>

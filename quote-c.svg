@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 120" width="1400" height="120" role="img" aria-label="Quote banner style C">
+  <defs>
+    <linearGradient id="qLineC" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0c1730"/>
+      <stop offset="50%" stop-color="#5be7ff"/>
+      <stop offset="100%" stop-color="#0c1730"/>
+    </linearGradient>
+
+    <linearGradient id="qTextC" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#aeefff">
+        <animate attributeName="stop-color" values="#aeefff;#e9fdff;#aeefff" dur="4.6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#69c3ff">
+        <animate attributeName="stop-color" values="#69c3ff;#c8edff;#69c3ff" dur="4.6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="qUnderlineC" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4ad9ff"/>
+      <stop offset="50%" stop-color="#e9fdff"/>
+      <stop offset="100%" stop-color="#4ad9ff"/>
+    </linearGradient>
+
+    <filter id="qGlowC" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="40" y="78" width="1320" height="2" fill="url(#qLineC)"/>
+
+  <text
+    x="700"
+    y="58"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="'Segoe Script', 'Brush Script MT', 'Lucida Handwriting', cursive"
+    font-size="34"
+    font-style="italic"
+    letter-spacing="0.2"
+    textLength="1160"
+    lengthAdjust="spacingAndGlyphs"
+    fill="url(#qTextC)"
+    filter="url(#qGlowC)"
+  >
+    "Efficiency is doing things right; effectiveness is doing the right things."
+  </text>
+
+  <path id="underlineCurveC" d="M 330 92 C 470 112, 930 112, 1070 92" fill="none" stroke="url(#qUnderlineC)" stroke-width="3.4" stroke-linecap="round"/>
+
+  <path d="M 330 92 C 470 112, 930 112, 1070 92" fill="none" stroke="url(#qUnderlineC)" stroke-width="3.4" stroke-linecap="round" filter="url(#qGlowC)" opacity="0.75">
+    <animate attributeName="opacity" values="0.35;0.95;0.35" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+
+  <path d="M 330 92 C 470 112, 930 112, 1070 92" fill="none" stroke="#dcfbff" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="18 12" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" values="0;-120" dur="4.4s" repeatCount="indefinite"/>
+  </path>
+
+  <circle r="3.1" fill="#e9fdff" filter="url(#qGlowC)">
+    <animateMotion dur="4.4s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#underlineCurveC"/>
+    </animateMotion>
+  </circle>
+</svg>
