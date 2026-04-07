@@ -7,25 +7,25 @@
     </linearGradient>
 
     <linearGradient id="qTextB" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#a8e9ff">
-        <animate attributeName="stop-color" values="#a8e9ff;#e7fbff;#a8e9ff" dur="4.8s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#7bd6ff">
+        <animate attributeName="stop-color" values="#7bd6ff;#f2feff;#7bd6ff" dur="6.2s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#63bfff">
-        <animate attributeName="stop-color" values="#63bfff;#bfe9ff;#63bfff" dur="4.8s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#3fa2ff">
+        <animate attributeName="stop-color" values="#3fa2ff;#bfe9ff;#3fa2ff" dur="6.2s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
     <linearGradient id="qShimmerB" x1="0%" y1="0%" x2="40%" y2="0%">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="45%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.95"/>
-      <stop offset="55%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="43%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="57%" stop-color="#ffffff" stop-opacity="0"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" values="-1.2 0;2.2 0" dur="3.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1.2 0;2.2 0" dur="6.4s" repeatCount="indefinite"/>
     </linearGradient>
 
-    <filter id="qGlowB" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="2.6" result="blur"/>
+    <filter id="qGlowB" x="-35%" y="-35%" width="170%" height="170%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -34,8 +34,8 @@
   </defs>
 
   <rect x="40" y="78" width="1320" height="2" fill="url(#qLineB)"/>
-  <rect x="40" y="78" width="1320" height="2" fill="url(#qLineB)" opacity="0.85" filter="url(#qGlowB)">
-    <animate attributeName="opacity" values="0.28;0.94;0.28" dur="3.2s" repeatCount="indefinite"/>
+  <rect x="40" y="78" width="1320" height="2" fill="url(#qLineB)" opacity="0.9" filter="url(#qGlowB)">
+    <animate attributeName="opacity" values="0.18;0.98;0.18" dur="5.6s" repeatCount="indefinite"/>
   </rect>
 
   <text

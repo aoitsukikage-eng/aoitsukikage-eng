@@ -104,9 +104,11 @@
 <p align="center">
   <sub>Quote Style B: Enlarged cursive + slow shimmer</sub>
 </p>
+<!-- Quote Style C is intentionally hidden for now.
 <p align="center">
   <img src="quote-c.svg" width="100%" alt="Quote Style C - Underline"/>
 </p>
 <p align="center">
   <sub>Quote Style C: Enlarged cursive + glowing signature underline</sub>
 </p>
+-->
