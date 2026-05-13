@@ -313,8 +313,26 @@
 - Scope: 2 files changed, 123 insertions(+), 1 deletion(-)
 - Files: README.md, assets/status-core-v6-4.svg
 
+### 2026-04-06 02:10:40 +0800 | e371271
+- Subject: docs: add full developer journal from repo inception
+- Author: YU-HUNG, SHIH
+- Scope: 1 file changed, 320 insertions(+)
+- Files: DEVELOPER_LOG.md
+
+### 2026-04-06 18:33:02 +0800 | 1c3ef1b
+- Subject: feat: add enlarged cursive quote styles B and C
+- Author: YU-HUNG, SHIH
+- Scope: 3 files changed, 151 insertions(+), 1 deletion(-)
+- Files: README.md, quote-b.svg, quote-c.svg
+
+### 2026-04-08 01:04:53 +0800 | 75be5c7
+- Subject: refine: slow quote shimmer and hide style C
+- Author: YU-HUNG, SHIH
+- Scope: 2 files changed, 14 insertions(+), 12 deletions(-)
+- Files: README.md, quote-b.svg
+
 ## Notes for Current Solo-Leveling Branch of Work
 
-- Main active visual path currently points to `assets/status-core-v6-4.svg?v=20260406h` in README.
-- Latest commit at generation time: `665df15`
+- Main active visual path currently points to `quote-b.svg` (Style C is preserved but hidden in README).
+- Latest commit at generation time: `75be5c7`
 - If GitHub profile still appears stale, raw/commit URLs should be used first for truth checks before additional design edits.
