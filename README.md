@@ -109,3 +109,26 @@
   <sub>Quote Style C: Enlarged cursive + glowing signature underline</sub>
 </p>
 -->
+
+<p align="center">
+  <img width="100%" alt="Divider" src="assets/solo-divider.svg" />
+</p>
+
+## Developer Log
+
+### 2026-06-21
+- Continued polishing the GitHub profile quote banner after the previous Solo Leveling UI pass.
+- Replaced the original quote copy with `Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.`
+- Removed the outer quotation marks and earlier subtitle treatment to keep the bottom section cleaner.
+- Iterated through several readability-focused quote treatments, including larger serif italic, handwritten shimmer, and a restored glowing script direction.
+- Switched the final quote treatment to a two-line cinematic handwritten layout so the text could scale up without clipping on GitHub.
+- Increased quote text size multiple times and widened the line spacing to prevent descenders from visually colliding between the two lines.
+- Softened the glow, slowed the shimmer sweep, and introduced a more romantic blue-white gradient balance while keeping readability high.
+- Rotated the quote asset filename repeatedly from `quote-b.svg` to `quote-b-v2.svg`, `quote-b-v3.svg`, and `quote-b-v4.svg` to bypass aggressive GitHub image caching during live review.
+- Preserved the current handwritten font direction because it balanced readability with the medieval-romantic tone you wanted.
+- Kept the rest of the Solo Leveling profile structure intact while refining only the quote presentation layer.
+
+### Current State
+- Active quote asset: `quote-b-v4.svg`
+- Active quote style: two-line handwritten glow with slower shimmer
+- Focus of this pass: readability, romantic mood, and reliable cache-busting for GitHub rendering
