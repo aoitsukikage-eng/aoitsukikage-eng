@@ -44,15 +44,15 @@
     text-anchor="middle"
     dominant-baseline="middle"
     font-family="'Segoe Script', 'Brush Script MT', 'Lucida Handwriting', cursive"
-    font-size="34"
+    font-size="38"
     font-style="italic"
     letter-spacing="0.2"
-    textLength="1160"
+    textLength="1180"
     lengthAdjust="spacingAndGlyphs"
     fill="url(#qTextB)"
     filter="url(#qGlowB)"
   >
-    "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present."
+    Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.
   </text>
 
   <text
@@ -61,14 +61,14 @@
     text-anchor="middle"
     dominant-baseline="middle"
     font-family="'Segoe Script', 'Brush Script MT', 'Lucida Handwriting', cursive"
-    font-size="34"
+    font-size="38"
     font-style="italic"
     letter-spacing="0.2"
-    textLength="1160"
+    textLength="1180"
     lengthAdjust="spacingAndGlyphs"
     fill="url(#qShimmerB)"
     opacity="0.9"
   >
-    "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present."
+    Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.
   </text>
 </svg>
