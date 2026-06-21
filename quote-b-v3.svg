@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 188" width="1400" height="188" role="img" aria-label="Quote banner style B">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 196" width="1400" height="196" role="img" aria-label="Quote banner style B">
   <defs>
     <linearGradient id="qLineB" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0c1730"/>
@@ -6,65 +6,106 @@
       <stop offset="100%" stop-color="#0c1730"/>
     </linearGradient>
 
-    <linearGradient id="qTextB" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7bd6ff">
-        <animate attributeName="stop-color" values="#7bd6ff;#f2feff;#7bd6ff" dur="6.2s" repeatCount="indefinite"/>
+    <linearGradient id="qTextTopB" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b7ecff">
+        <animate attributeName="stop-color" values="#b7ecff;#f8feff;#b7ecff" dur="8.8s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#3fa2ff">
-        <animate attributeName="stop-color" values="#3fa2ff;#bfe9ff;#3fa2ff" dur="6.2s" repeatCount="indefinite"/>
+      <stop offset="50%" stop-color="#f4fbff">
+        <animate attributeName="stop-color" values="#f4fbff;#ffffff;#f4fbff" dur="8.8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7ccfff">
+        <animate attributeName="stop-color" values="#7ccfff;#d7f4ff;#7ccfff" dur="8.8s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
-    <linearGradient id="qShimmerB" x1="0%" y1="0%" x2="40%" y2="0%">
+    <linearGradient id="qTextBottomB" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9fddff">
+        <animate attributeName="stop-color" values="#9fddff;#e8faff;#9fddff" dur="9.4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#68bfff">
+        <animate attributeName="stop-color" values="#68bfff;#cbeeff;#68bfff" dur="9.4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="qShimmerB" x1="0%" y1="0%" x2="32%" y2="0%">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="43%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="1"/>
-      <stop offset="57%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.92"/>
+      <stop offset="60%" stop-color="#ffffff" stop-opacity="0"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" values="-1.2 0;2.2 0" dur="6.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1.15 0;2.15 0" dur="8.6s" repeatCount="indefinite"/>
     </linearGradient>
 
-    <filter id="qGlowB" x="-35%" y="-35%" width="170%" height="170%">
-      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+    <filter id="qGlowSoftB" x="-40%" y="-45%" width="180%" height="190%">
+      <feGaussianBlur stdDeviation="4.2" result="blur1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="blur2"/>
       <feMerge>
-        <feMergeNode in="blur"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
 
-  <rect x="40" y="142" width="1320" height="2" fill="url(#qLineB)"/>
-  <rect x="40" y="142" width="1320" height="2" fill="url(#qLineB)" opacity="0.9" filter="url(#qGlowB)">
-    <animate attributeName="opacity" values="0.18;0.98;0.18" dur="5.6s" repeatCount="indefinite"/>
+  <rect x="40" y="150" width="1320" height="2" fill="url(#qLineB)"/>
+  <rect x="40" y="150" width="1320" height="2" fill="url(#qLineB)" opacity="0.72" filter="url(#qGlowSoftB)">
+    <animate attributeName="opacity" values="0.12;0.72;0.12" dur="7.2s" repeatCount="indefinite"/>
   </rect>
 
   <text
     x="700"
-    y="48"
+    y="44"
     text-anchor="middle"
     font-family="'Segoe Script', 'Apple Chancery', 'URW Chancery L', 'Lucida Handwriting', 'Brush Script MT', cursive"
     font-size="52"
     font-style="italic"
-    letter-spacing="0.15"
-    fill="url(#qTextB)"
-    filter="url(#qGlowB)"
+    letter-spacing="0.18"
+    fill="url(#qTextTopB)"
+    filter="url(#qGlowSoftB)"
   >
     <tspan x="700" dy="0">Yesterday is history, tomorrow is a mystery,</tspan>
-    <tspan x="700" dy="50">but today is a gift. That is why it is called the present.</tspan>
   </text>
 
   <text
     x="700"
-    y="48"
+    y="104"
+    text-anchor="middle"
+    font-family="'Segoe Script', 'Apple Chancery', 'URW Chancery L', 'Lucida Handwriting', 'Brush Script MT', cursive"
+    font-size="50"
+    font-style="italic"
+    letter-spacing="0.16"
+    fill="url(#qTextBottomB)"
+    filter="url(#qGlowSoftB)"
+    opacity="0.94"
+  >
+    <tspan x="700" dy="0">but today is a gift. That is why it is called the present.</tspan>
+  </text>
+
+  <text
+    x="700"
+    y="44"
     text-anchor="middle"
     font-family="'Segoe Script', 'Apple Chancery', 'URW Chancery L', 'Lucida Handwriting', 'Brush Script MT', cursive"
     font-size="52"
     font-style="italic"
-    letter-spacing="0.15"
+    letter-spacing="0.18"
     fill="url(#qShimmerB)"
-    opacity="0.92"
+    opacity="0.86"
   >
     <tspan x="700" dy="0">Yesterday is history, tomorrow is a mystery,</tspan>
-    <tspan x="700" dy="50">but today is a gift. That is why it is called the present.</tspan>
+  </text>
+
+  <text
+    x="700"
+    y="104"
+    text-anchor="middle"
+    font-family="'Segoe Script', 'Apple Chancery', 'URW Chancery L', 'Lucida Handwriting', 'Brush Script MT', cursive"
+    font-size="50"
+    font-style="italic"
+    letter-spacing="0.16"
+    fill="url(#qShimmerB)"
+    opacity="0.72"
+  >
+    <tspan x="700" dy="0">but today is a gift. That is why it is called the present.</tspan>
   </text>
 </svg>
