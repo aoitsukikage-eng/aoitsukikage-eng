@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 156" width="1400" height="156" role="img" aria-label="Quote banner style B">
+  <defs>
+    <linearGradient id="qLineB" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0c1730"/>
+      <stop offset="50%" stop-color="#5be7ff"/>
+      <stop offset="100%" stop-color="#0c1730"/>
+    </linearGradient>
+
+    <linearGradient id="qTextB" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7bd6ff">
+        <animate attributeName="stop-color" values="#7bd6ff;#f2feff;#7bd6ff" dur="6.2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#3fa2ff">
+        <animate attributeName="stop-color" values="#3fa2ff;#bfe9ff;#3fa2ff" dur="6.2s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="qShimmerB" x1="0%" y1="0%" x2="40%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="43%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="57%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1.2 0;2.2 0" dur="6.4s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="qGlowB" x="-35%" y="-35%" width="170%" height="170%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="40" y="112" width="1320" height="2" fill="url(#qLineB)"/>
+  <rect x="40" y="112" width="1320" height="2" fill="url(#qLineB)" opacity="0.9" filter="url(#qGlowB)">
+    <animate attributeName="opacity" values="0.18;0.98;0.18" dur="5.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <text
+    x="700"
+    y="56"
+    text-anchor="middle"
+    font-family="'Segoe Script', 'Lucida Handwriting', 'Brush Script MT', cursive"
+    font-size="44"
+    font-style="italic"
+    letter-spacing="0.1"
+    fill="url(#qTextB)"
+    filter="url(#qGlowB)"
+  >
+    <tspan x="700" dy="0">Yesterday is history, tomorrow is a mystery,</tspan>
+    <tspan x="700" dy="38">but today is a gift. That is why it is called the present.</tspan>
+  </text>
+
+  <text
+    x="700"
+    y="56"
+    text-anchor="middle"
+    font-family="'Segoe Script', 'Lucida Handwriting', 'Brush Script MT', cursive"
+    font-size="44"
+    font-style="italic"
+    letter-spacing="0.1"
+    fill="url(#qShimmerB)"
+    opacity="0.92"
+  >
+    <tspan x="700" dy="0">Yesterday is history, tomorrow is a mystery,</tspan>
+    <tspan x="700" dy="38">but today is a gift. That is why it is called the present.</tspan>
+  </text>
+</svg>

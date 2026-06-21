@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="quote-b-v2.svg?v=20260621a" width="100%" alt="Quote Style B - Shimmer"/>
+  <img src="quote-b-v3.svg?v=20260621b" width="100%" alt="Quote Style B - Shimmer"/>
 </p>
 <!-- Quote Style C is intentionally hidden for now.
 <p align="center">
