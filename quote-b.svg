@@ -7,25 +7,25 @@
     </linearGradient>
 
     <linearGradient id="qTextB" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#c7f3ff">
-        <animate attributeName="stop-color" values="#c7f3ff;#ffffff;#c7f3ff" dur="6.8s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#9ae4ff">
+        <animate attributeName="stop-color" values="#9ae4ff;#f3feff;#9ae4ff" dur="6.2s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#67bbff">
-        <animate attributeName="stop-color" values="#67bbff;#d9f4ff;#67bbff" dur="6.8s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#76cbff">
+        <animate attributeName="stop-color" values="#76cbff;#d5f3ff;#76cbff" dur="6.2s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
-    <linearGradient id="qShimmerB" x1="0%" y1="0%" x2="28%" y2="0%">
+    <linearGradient id="qShimmerB" x1="0%" y1="0%" x2="40%" y2="0%">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="46%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="43%" stop-color="#ffffff" stop-opacity="0"/>
       <stop offset="50%" stop-color="#ffffff" stop-opacity="1"/>
-      <stop offset="54%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="57%" stop-color="#ffffff" stop-opacity="0"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" values="-1.15 0;2.15 0" dur="7.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1.2 0;2.2 0" dur="6.4s" repeatCount="indefinite"/>
     </linearGradient>
 
     <filter id="qGlowB" x="-35%" y="-35%" width="170%" height="170%">
-      <feGaussianBlur stdDeviation="2.1" result="blur"/>
+      <feGaussianBlur stdDeviation="3.0" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -33,27 +33,23 @@
     </filter>
   </defs>
 
-  <rect x="40" y="90" width="1320" height="2" fill="url(#qLineB)"/>
-  <rect x="40" y="90" width="1320" height="2" fill="url(#qLineB)" opacity="0.82" filter="url(#qGlowB)">
-    <animate attributeName="opacity" values="0.14;0.9;0.14" dur="6.1s" repeatCount="indefinite"/>
+  <rect x="40" y="86" width="1320" height="2" fill="url(#qLineB)"/>
+  <rect x="40" y="86" width="1320" height="2" fill="url(#qLineB)" opacity="0.9" filter="url(#qGlowB)">
+    <animate attributeName="opacity" values="0.18;0.98;0.18" dur="5.6s" repeatCount="indefinite"/>
   </rect>
 
   <text
     x="700"
-    y="62"
+    y="60"
     text-anchor="middle"
     dominant-baseline="middle"
-    font-family="'Palatino Linotype', 'Book Antiqua', Georgia, serif"
+    font-family="'Lucida Handwriting', 'Brush Script MT', 'Segoe Script', cursive"
     font-size="42"
     font-style="italic"
-    letter-spacing="0.1"
+    letter-spacing="0.12"
     textLength="1210"
     lengthAdjust="spacingAndGlyphs"
     fill="url(#qTextB)"
-    stroke="#f3feff"
-    stroke-opacity="0.18"
-    stroke-width="0.6"
-    paint-order="stroke"
     filter="url(#qGlowB)"
   >
     Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.
@@ -61,17 +57,17 @@
 
   <text
     x="700"
-    y="62"
+    y="60"
     text-anchor="middle"
     dominant-baseline="middle"
-    font-family="'Palatino Linotype', 'Book Antiqua', Georgia, serif"
+    font-family="'Lucida Handwriting', 'Brush Script MT', 'Segoe Script', cursive"
     font-size="42"
     font-style="italic"
-    letter-spacing="0.1"
+    letter-spacing="0.12"
     textLength="1210"
     lengthAdjust="spacingAndGlyphs"
     fill="url(#qShimmerB)"
-    opacity="0.72"
+    opacity="0.92"
   >
     Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.
   </text>
