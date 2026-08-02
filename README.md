@@ -7,6 +7,14 @@
 </p>
 
 <p align="center">
+  <code>[SYSTEM] A hidden dungeon has appeared.</code><br />
+  <code>↑ ↑ ↓ ↓ ← → ← → B A</code><br /><br />
+  <a href="https://aoitsukikage-eng.github.io">
+    <img src="https://img.shields.io/badge/ENTER_THE_HIDDEN_DUNGEON-081226?style=for-the-badge&logo=gamepad&logoColor=5BE7FF&labelColor=050B17" alt="Enter the Hidden Dungeon" />
+  </a>
+</p>
+
+<p align="center">
   <img width="100%" alt="Divider" src="assets/solo-divider.svg" />
 </p>
 
@@ -81,8 +89,8 @@
       </a>
     </td>
     <td align="center" width="34%">
-      <a href="https://www.notion.so/Portfolio-2e2fe14ae570800a83a9ecc39541ae4e">
-        <img src="https://img.shields.io/badge/Portfolio-081226?style=for-the-badge&logo=notion&logoColor=5BE7FF&labelColor=050B17" width="220"/>
+      <a href="https://aoitsukikage-eng.github.io">
+        <img src="https://img.shields.io/badge/Website-081226?style=for-the-badge&logo=googlechrome&logoColor=5BE7FF&labelColor=050B17" width="220"/>
       </a>
     </td>
     <td align="center" width="33%">
