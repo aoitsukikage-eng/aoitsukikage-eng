@@ -7,10 +7,8 @@
 </p>
 
 <p align="center">
-  <code>[SYSTEM] A hidden dungeon has appeared.</code><br />
-  <code>↑ ↑ ↓ ↓ ← → ← → B A</code><br /><br />
   <a href="https://aoitsukikage-eng.github.io">
-    <img src="https://img.shields.io/badge/ENTER_THE_HIDDEN_DUNGEON-081226?style=for-the-badge&logo=gamepad&logoColor=5BE7FF&labelColor=050B17" alt="Enter the Hidden Dungeon" />
+    <img width="100%" alt="Hidden Dungeon Portal" src="assets/hidden-dungeon-portal.svg" />
   </a>
 </p>
 
