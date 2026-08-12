@@ -3,12 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1100&color=5BE7FF&center=true&vCenter=true&width=980&lines=%5BSYSTEM%5D+PLAYER+PROFILE+LOADED;%5BCLASS%5D+Finance+Student+%40+NTPU;%5BSPEC%5D+AI-Augmented+Developer;%5BMISSION%5D+Looking+for+2026+Summer+Internship" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://aoitsukikage-eng.github.io">
-    <img width="100%" alt="Hidden Dungeon Portal" src="assets/hidden-dungeon-portal.svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1100&color=5BE7FF&center=true&vCenter=true&width=980&lines=%5BSYSTEM%5D+PLAYER+PROFILE+LOADED;%5BCLASS%5D+Finance+Student+%40+NTPU;%5BSPEC%5D+AI-Augmented+Developer;%5BMISSION%5D+Looking+for+2026+Summer+Internship;%5BSYSTEM%5D+HIDDEN+DUNGEON+HAS+APPEARED" alt="Typing SVG - Personal Website Portal" />
   </a>
 </p>
 
