@@ -2,9 +2,7 @@
   <img width="100%" alt="Solo System Banner" src="assets/solo-system-banner.svg" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1100&color=5BE7FF&center=true&vCenter=true&width=980&lines=%5BSYSTEM%5D+PLAYER+PROFILE+LOADED;%5BCLASS%5D+Finance+Student+%40+NTPU;%5BSPEC%5D+AI-Augmented+Developer;%5BMISSION%5D+Looking+for+2026+Summer+Internship" alt="Typing SVG" />
-</p>
+<p align="center"><a href="https://aoitsukikage-eng.github.io"><img align="middle" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1100&color=5BE7FF&center=true&vCenter=true&width=980&lines=%5BSYSTEM%5D+PLAYER+PROFILE+LOADED;%5BCLASS%5D+Finance+Student+%40+NTPU;%5BSPEC%5D+AI-Augmented+Developer;%5BMISSION%5D+Looking+for+2026+Summer+Internship;%5BSYSTEM%5D+HIDDEN+DUNGEON+HAS+APPEARED" alt="Typing SVG - Personal Website Portal" /></a></p>
 
 <p align="center">
   <img width="100%" alt="Divider" src="assets/solo-divider.svg" />
@@ -81,8 +79,8 @@
       </a>
     </td>
     <td align="center" width="34%">
-      <a href="https://www.notion.so/Portfolio-2e2fe14ae570800a83a9ecc39541ae4e">
-        <img src="https://img.shields.io/badge/Portfolio-081226?style=for-the-badge&logo=notion&logoColor=5BE7FF&labelColor=050B17" width="220"/>
+      <a href="https://aoitsukikage-eng.github.io">
+        <img src="https://img.shields.io/badge/Website-081226?style=for-the-badge&logo=googlechrome&logoColor=5BE7FF&labelColor=050B17" width="220"/>
       </a>
     </td>
     <td align="center" width="33%">
