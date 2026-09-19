@@ -50,16 +50,12 @@
 </p>
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aoitsukikage-eng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=00000000"/>
-  <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aoitsukikage-eng&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000"/>
+  <img height="185em" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=aoitsukikage-eng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=00000000"/>
+  <img height="185em" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aoitsukikage-eng&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aoitsukikage-eng&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aoitsukikage-eng&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
+  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=aoitsukikage-eng&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
 <p align="center">
